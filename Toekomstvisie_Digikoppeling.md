@@ -131,10 +131,10 @@ Verouderde koppelvlakken moeten worden uitgefaseerd en vervangen daarbij moet ov
 -   WUS en ebMS2 worden niet meer doorontwikkeld en kennen een teruglopende ondersteuning vanuit leveranciers en ontwikkelplatforms
 -   WUS en REST-API kennen overlap wat betreft functionaliteit en toepassing (bevragingen/synchrone transacties), REST-API kan gezien worden als vervanger van de WUS standaard
 
-4.2 Themadag 
+4.2 Themadag
 -------------
 
-Bij de Themadag bleek met name draagvlak voor:
+Bij de Themadag Toekomstvisie Digikoppeling bleek met name draagvlak voor:
 
 -   Invoeren van ebMS3/AS4 (eDelivery) 
 -   Faciliteren van verschillende standaarden voor gegevensuitwisseling als dat voordelen heeft voor bepaalde toepassingen, architecturen en use cases.
@@ -142,6 +142,8 @@ Bij de Themadag bleek met name draagvlak voor:
 -   Afspraken maken rond Lifecycle management (Toevoegen en verwijderen van standaarden)
 -   Niet alleen Overheid - Overheid gegevensuitwisseling ondersteunen maar ook Overheid naar Bedrijfsleven
 -   Digikoppeling als "gereedschapskist" met geschikte standaarden voor verschillende architecturen en soorten gegevensuitwisseling
+
+  Zie ook [Verslag Themadag Toekomstvisie Digikoppeling (26/6/2026)](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2026-09-24/20260624_Themadag%20Digikoppeling_verslag.md)
 
 5 Toekomstbeeld  (SOLL)
 =======================
