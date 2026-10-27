@@ -10,6 +10,7 @@ Versie: 16-09-26
 
 > Uitgangspunt voor het toekomstbeeld is dat dit voldoende draagvlak moet hebben bij de betrokken partijen om tot besluitvorming te kunnen komen in het Technisch Overleg Digikoppeling  & MIDO;
 
+## Samenvatting Toekomstvisie
 In de Notitie Toelichting Toekomstvisie Digikoppeling (zie bijlage) wordt voorgesteld om:
 1.	De scope van Digikoppeling uit te breiden van “alleen Overheid naar Overheid” naar zowel “Overheid naar Overheid” als “Overheid naar Bedrijfsleven”
 2.	Open Data via Digikoppeling uit te wisselen wanneer het gaat om bedrijfsprocessen waar hoge eisen wordt gesteld aan betrouwbaarheid en transparantie van verwerking;
