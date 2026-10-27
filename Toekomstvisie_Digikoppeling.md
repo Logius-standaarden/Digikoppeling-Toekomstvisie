@@ -255,16 +255,17 @@ Een standaard wordt uit gefaseerd wanneer 1 of meer van de onderstaande punten g
 -   De standaard niet meer onderhouden of doorontwikkeld wordt
 -   Ondersteuning door leveranciers en ontwikkel platforms terugloopt
 -   Kennis onvoldoende beschikbaar is in de markt
+-   Een andere standaard met dezelfde functionaliteit wettelijk verplicht wordt
 
 (In de governance wordt de afweging gemaakt of er doorslaggevende redenen zijn om een standaard uit te faseren)
 
 ### 5.5.2 Toevoegen van nieuwe standaarden
 
-Een standaard wordt toegevoegd wanneer :
+Een standaard wordt toegevoegd wanneer 1 of meer van de onderstaande punten gelden:
 
--   De standaard wordt gezien als opvolger van een uit te faseren standaard\
-    (en/of)
+-   De standaard wordt gezien als opvolger van een uit te faseren standaard
 -   De standaard functionaliteit biedt die meerwaarde levert tov de reeds aanwezige standaarden voor bepaalde architecturen en use-cases daarbinnen
+-   De standaard wettelijk verplicht wordt
 
 Algemene eisen hierbij in de beoordeling:
 
