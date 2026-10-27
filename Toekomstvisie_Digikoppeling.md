@@ -6,7 +6,7 @@ Auteur: Peter Haasnoot
 
 Versie: 16-09-26 
 
-> In dit document wordt een toekomstbeeld geschetst voor de Digikoppeling standaard, input hiervoor is de themamiddag Digikoppeling van 24/6 zie bijlage voor het verslag van de themamiddag ([20260624 Verslag themamiddag Toekomstvisie Digikoppeling](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2026-09-24/20260624_Themadag%20Digikoppeling_verslag.md)
+> In dit document wordt een toekomstbeeld geschetst voor de Digikoppeling standaard, input hiervoor is de themamiddag Digikoppeling van 24/6/2026 zie bijlage voor het verslag van de themamiddag ([20260624 Verslag themamiddag Toekomstvisie Digikoppeling](https://github.com/Logius-standaarden/Overleg/blob/main/Digikoppeling/2026-09-24/20260624_Themadag%20Digikoppeling_verslag.md)
 
 > Uitgangspunt voor het toekomstbeeld is dat dit voldoende draagvlak moet hebben bij de betrokken partijen om tot besluitvorming te kunnen komen in het Technisch Overleg Digikoppeling  & MIDO;
 
