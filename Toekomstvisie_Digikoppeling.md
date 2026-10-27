@@ -230,11 +230,11 @@ Per architectuur worden hieronder de standaarden  weergegeven die zijn opgenomen
 | Standaard | Resource Oriented | Message Oriented | Service Oriented | Event Oriented | AI Model Communication Oriented |
 | --- | --- | --- | --- | --- | --- |
 | REST-API profiel | V | v | v | v |  |
-| GraphQL | V |  |  |  |  |
+| _GraphQL_ | V |  |  |  |  |
 | eDelivery (ebMS3/AS4) l |  | V | V | V |  |
-| AMQP (Advanced Message Queuing Protocol) |  | V | V | V |  |
-| MQTT (Message Queuing Telemetry Transport) (IOT) |  | V | V | V |  |
-| MCP (Model Context Protocol) |  |  |  |  | V |
+| _AMQP (Advanced Message Queuing Protocol)_ |  | V | V | V |  |
+| _MQTT (Message Queuing Telemetry Transport) (IOT)_ |  | V | V | V |  |
+| _MCP (Model Context Protocol)_ |  |  |  |  | V |
 
 
 *V : de standaard biedt specifieke functionaliteit voor deze architectuur\
