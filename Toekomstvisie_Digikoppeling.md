@@ -220,7 +220,7 @@ Per architectuur worden hieronder de standaarden  weergegeven die zijn opgenomen
 -   Event Oriented Architecture
     -   eDelivery (ebMS3/AS4) profiel
     -   *AMQP (Advanced Message Queuing Protocol)*  
-    -   *MQTT (Message Queuing Telemetry Transport) (IOT) *
+    -   *MQTT (Message Queuing Telemetry Transport) (IOT)*
 
 -   AI Model Communication Architecture
     -   *MCP (Model Context Protocol) profiel*
