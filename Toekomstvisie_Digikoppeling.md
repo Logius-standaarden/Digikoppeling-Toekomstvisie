@@ -231,7 +231,7 @@ Per architectuur worden hieronder de standaarden  weergegeven die zijn opgenomen
 | --- | --- | --- | --- | --- | --- |
 | REST-API profiel | V | v | v | v |  |
 | _GraphQL_ | V |  |  |  |  |
-| eDelivery (ebMS3/AS4) l |  | V | V | V |  |
+| eDelivery (ebMS3/AS4)  |  | V | V | V |  |
 | _AMQP (Advanced Message Queuing Protocol)_ |  | V | V | V |  |
 | _MQTT (Message Queuing Telemetry Transport) (IOT)_ |  | V | V | V |  |
 | _MCP (Model Context Protocol)_ |  |  |  |  | V |
