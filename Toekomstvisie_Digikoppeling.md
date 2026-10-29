@@ -28,7 +28,7 @@ Hieronder worden per voorstel uit de toekomstvisie beknopt aangegeven wat de arg
 _1.1	Voor de gegevensuitwisseling “Overheid naar Bedrijfsleven” zijn nu nog geen standaarden voorgeschreven._
 Door dit wel binnen scope van Digikoppeling te plaatsen wordt de toepassing van de Digikoppeling standaard eenduidiger en wordt het bedrijfsleven een (meer) uniform mechanisme voor gegevensuitwisseling met de overheid geboden;
 
-2.1 _Door Digikoppeling ook voor Open Data te gebruiken kan deze op een uniforme manier ontsloten worden waarbij aanbieder en ontvanger bekend zijn._ Dit heeft vooral voordeel als er kritische besluiten worden genomen op basis van de open data en het belangrijk is dat de aanbieder vertrouwd is en dat bij problemen nagegaan kan worden wie afzender en ontvanger was van bepaalde gegevens.
+2.1 _Door Digikoppeling ook voor Open Data te gebruiken kan deze op een uniforme manier ontsloten worden waarbij aanbieder en ontvanger bekend zijn._ Dit heeft vooral voordeel als er kritische besluiten worden genomen op basis van de open data en het belangrijk is dat de aanbieder vertrouwd is en ook bij problemen nagegaan kan worden wie aanbieder en ontvanger was van bepaalde gegevens.
      
 3.1 _Door Digikoppeling als gereedschapskist van standaarden te zien kan voldoende ondersteuning worden geboden voor de verschillende vraagstukken en architecturen die een rol spelen in het domein Gegevensuitwisseling;_
      Uitgangspunt is dat Digikoppeling voldoende functionaliteit biedt, maar ook bewaakt dat 
