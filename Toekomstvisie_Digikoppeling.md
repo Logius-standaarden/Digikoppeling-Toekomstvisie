@@ -332,7 +332,7 @@ Op dit moment  zijn WUS en ebMS2 profielen onderdeel van de standaard, de onderl
 De uitfaseringsplanning is als volgt (voorbeeld):
 
 | Koppelvlak Standaard | Status | Toelichting | Einde Ondersteuning |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |
 | Digikoppeling WUS | Uit te faseren | Het DK WUS koppelvlak dient te worden uit gefaseerd |  01-01-2030 |
 | Digikoppeling ebMS2 | Uit te faseren | Het DK ebMS2 koppelvlak dient te worden uit gefaseerd |  01-01-2030 |
 
