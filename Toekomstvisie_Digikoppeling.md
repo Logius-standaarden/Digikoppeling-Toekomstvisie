@@ -295,7 +295,7 @@ Per standaard wordt bijgehouden of dit een profiel of internationale standaard i
 | Koppelvlakstandaard | Type | Status |
 | --- | --- | --- |
 | REST-API profiel | Profiel | In Gebruik |
-| eDelivery (ebMS3/AS4) l | Profiel | In Gebruik |
+| eDelivery (ebMS3/AS4)  | Int. Std | In Gebruik |
 | GraphQL | Profiel | In Onderzoek |
 | AMQP (Advanced Message Queuing Protocol) | Int. Std | In Onderzoek |
 | MQTT (Message Queuing Telemetry Transport) (IOT) | Int. Std | In Onderzoek |
