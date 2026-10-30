@@ -1,5 +1,3 @@
- ­­­­
-
 # Toekomstvisie Digikoppeling
 
 Auteur: Peter Haasnoot
