@@ -1,14 +1,16 @@
-In de Notitie Toelichting Toekomstvisie Digikoppeling (zie bijlage) wordt voorgesteld om:
+In deze notitie wordt voorgesteld om:
 1.	De scope van Digikoppeling uit te breiden van “alleen Overheid naar Overheid” naar zowel “Overheid naar Overheid” als “Overheid naar Bedrijfsleven”
 2.	Open Data via Digikoppeling uit te wisselen wanneer het gaat om bedrijfsprocessen waar hoge eisen wordt gesteld aan betrouwbaarheid en transparantie van verwerking;
 3.	Digikoppeling te zien als een gereedschapskist van (koppelvlak)standaarden waarbij standaarden worden opgenomen die voor een bepaalde toepassing en architectuur het meest geschikt zijn
 4.	De geformuleerde regels voor Lifecycle management (LCM) van de (koppelvlak)standaarden te volgen
-5.	Wat betreft Lifecycle management (LCM): <BR>
-a.	De standaard ebMS2 de status “uit te faseren” te geven <BR>
-b.	De standaard ebMS3/AS4 (eDelivery) in te voeren <BR>
+5.	Wat betreft Lifecycle management (LCM):
+    <ol type="a">
+    <li>De standaard ebMS2 de status “uit te faseren” te geven</li>
+    <li>De standaard ebMS3/AS4 (eDelivery) in te voeren</li>
+    </ol>
 
 ### Argumenten
-Hieronder worden per voorstel uit de toekomstvisie beknopt aangegeven wat de argumenten hiervoor zijn, een uitgebreide beschrijving van de toekomstvisie vindt u in de bijlage;
+Hieronder worden per voorstel uit de toekomstvisie beknopt aangegeven wat de argumenten hiervoor zijn, een uitgebreide beschrijving van de toekomstvisie vindt u in de hoofdstukken hierna.
 
 1.1	_Voor de gegevensuitwisseling “Overheid naar Bedrijfsleven” zijn nu nog geen standaarden voorgeschreven._
 Door dit wel binnen scope van Digikoppeling te plaatsen wordt de toepassing van de Digikoppeling standaard eenduidiger en wordt het bedrijfsleven een (meer) uniform mechanisme voor gegevensuitwisseling met de overheid geboden;

@@ -14,7 +14,7 @@ loadRespecWithConfiguration({
         "url" : "https://www.logius.nl"
       }
   ],
-  github: "https://github.com/Logius-standaarden/Digikoppeling-Toekomstvisie/tree/main",
+  github: "https://github.com/Logius-standaarden/Digikoppeling-Toekomstvisie",
   pubDomain: "dk",
   //previousPublishVersion: "1.0",
   publishDate: "2026-10-30",
@@ -30,6 +30,7 @@ loadRespecWithConfiguration({
     (config, document) => {
       document.getElementById("conformance")?.remove();
       document.getElementById("sotd")?.remove();
+      document.querySelector('.head a[rel="alternate"]')?.closest("p")?.remove();
     },
   ],
 });
