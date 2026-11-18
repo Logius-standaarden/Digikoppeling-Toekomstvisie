@@ -191,7 +191,7 @@ _huidige formulering_
 Digikoppeling moet worden toegepast bij digitale gegevensuitwisseling die plaatsvindt met voorzieningen die onderdeel zijn van de GDI, waaronder de basisregistraties, of die sector overstijgend is. De verplichting geldt voor gegevensuitwisseling tussen systemen waarbij er noodzaak is voor tweezijdige authenticatie.
 
 _alternatieve_formulering_
-Digikoppeling moet worden toegepast bij  digitale gegevensuitwisseling die plaatsvindt met systemen van overheidsorgansisaties, dit geldt zowel voor uitwisseling van overheid naar overheid als voor uitwisseling overheid naar bedrijfsleven/burgers . 
+Digikoppeling moet worden toegepast bij  digitale gegevensuitwisseling die plaatsvindt met systemen van overheidsorgansisaties, dit geldt zowel voor diensten van overheid naar overheid als voor diensten van overheid naar bedrijfsleven/burgers . 
 Toegestane uitzondering is wanneer de uitwisseling binnen een sector plaatsvindt;
 
 __[TO DO : aanpassen formulering]__
