@@ -33,7 +33,7 @@ Door dit wel binnen scope van Digikoppeling te plaatsen wordt de toepassing van 
 3.1 _Door Digikoppeling als gereedschapskist van standaarden te zien kan voldoende ondersteuning worden geboden voor de verschillende vraagstukken en architecturen die een rol spelen in het domein Gegevensuitwisseling;_
      Uitgangspunt is dat Digikoppeling voldoende functionaliteit biedt, maar ook bewaakt dat 
      opgenomen standaarden specifieke waarde hebben binnen het domein en daarbij dat
-     overlap in functionaliteit zoveel mogelijk wordt voorkomen.
+     overlap in functionaliteit zoveel mogelijk wordt voorkomen. Ook zorgt deze opzet ervoor dat Digikoppeling aanpasbaar en flexibel is: Digikoppeling kan meegaan met ontwikkelingen op gebied van gegevensuitwisseling standaarden.
      
 4.1  _Op dit moment zijn de regels voor life-cycle-management (LCM) niet geformaliseerd._
      Het vastleggen en volgen van de regels voor LCM zorgt ervoor dat de standaard actueel kan  
