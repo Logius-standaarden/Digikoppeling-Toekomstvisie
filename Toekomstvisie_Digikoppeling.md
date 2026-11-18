@@ -176,7 +176,8 @@ Digikoppeling biedt ondersteuning voor betrouwbare en traceerbare uitwisseling v
 |G2G | (G2G) Koppelvlakstandaarden <BR> voor Open Data/Dienst | (G2G) Koppelvlakstandaarden <BR> voor Gesloten Data/Dienst |
 |G2B | (G2B) Koppelvlakstandaarden <BR> voor Open Data/Dienst | (G2B) Koppelvlakstandaarden <BR> voor Gesloten Data/Dienst |
 
-
+Voor kritische processen die Open Data gebruiken kan Digikoppeling via een gesloten Dienst gebruikt worden om zekerheid van aanbieder en ontvanger en ook integriteit van Data te waarborgen in het proces.
+(Eisen/afspraken rond Open Data/Diensten zijn anders dan Eisen/afspraken rond Gesloten Data/Diensten)
 
 5.3 Positionering in de GDI
 ---------------------------
