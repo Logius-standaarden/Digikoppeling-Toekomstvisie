@@ -2,7 +2,7 @@
 
 # Toekomstvisie Digikoppeling
 
-Auteur: Peter Haasnoot
+Auteurs: Peter Haasnoot, Dennis Passage
 
 Versie: 01-11-2026 
 
