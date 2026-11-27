@@ -263,6 +263,8 @@ In onderstaande figuur wordt de relatie tussen standaarden en architectuur type 
 
 ![](media/fig_Architectuur_2.png)
 
+Digikoppeling biedt algemene beveiligingsvoorschriften voor de verschillende koppelvlakstandaarden (zodat deze niet in aparte profielen hoeven te worden bijgehouden)
+
 5.5 Algemeen life cycle afwegingskader
 --------------------------------------
 
@@ -303,7 +305,6 @@ Algemene eisen hierbij in de beoordeling:
 -   Digikoppeling is het GDI bouwblok dat aangeeft welke standaarden voor welke architectuur te gebruiken zijn;
 -   Digikoppeling levert voor standaarden NLgov profielen in geval aanvullende afspraken op de (internationale) standaard nodig zijn
 -   Digikoppeling verwijst alleen naar de internationale standaard in het geval dat dit volstaat (of wanneer een profiel nog in ontwikkeling is)
--   Digikoppeling biedt algemene beveiligingsvoorschriften voor de verschillende koppelvlakstandaarden (zodat deze niet in aparte profielen hoeven te worden bijgehouden)
 
 ### 5.6.2 Afspraken
 
