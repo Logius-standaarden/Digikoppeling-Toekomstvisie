@@ -319,19 +319,18 @@ De volgende aanduidingen worden gebruikt om de status van een standaard binnen D
 
 ### 5.6.3 Afspraken 
 
-Per standaard wordt bijgehouden of dit een profiel of internationale standaard is en of deze de status "in gebruik" of "uit te faseren"" heeft 
+Per standaard wordt bijgehouden welk type standaard dit is en welke status de standaard heeft:
 
 | Koppelvlakstandaard | Type | Status |
 | --- | --- | --- |
-| REST-API profiel | Profiel | In Gebruik |
-| eDelivery (ebMS3/AS4)  | Int. Std | In Gebruik |
-| GraphQL | Profiel | In Onderzoek |
-| AMQP (Advanced Message Queuing Protocol) | Int. Std | In Onderzoek |
-| MQTT (Message Queuing Telemetry Transport) (IOT) | Int. Std | In Onderzoek |
-| MCP (Model Context Protocol) | Int. Std | In Onderzoek |
-| ebMS2 | Profiel | Uit te faseren |
-| WUS | Profiel | Uit te faseren ||
-
+| REST-API profiel | Digikoppeling Profiel | In Gebruik |
+| eDelivery (ebMS3/AS4)  | EU Standaard | In Gebruik |
+| GraphQL | Internationale Standaard | In Onderzoek |
+| AMQP (Advanced Message Queuing Protocol) | Internationale Standaard | In Onderzoek |
+| MQTT (Message Queuing Telemetry Transport) (IOT) | Internationale Standaard | In Onderzoek |
+| MCP (Model Context Protocol) | Internationale Standaard | In Onderzoek |
+| ebMS2 | Digikoppeling Profiel | Uit te faseren |
+| WUS | Digikoppeling Profiel  | Uit te faseren ||
 
 Aanpassingen op de status en invoering van nieuwe standaarden verloopt via het Technisch overleg Digikoppeling, en de MIDO governance conform het Digikoppeling Beheermodel
 
