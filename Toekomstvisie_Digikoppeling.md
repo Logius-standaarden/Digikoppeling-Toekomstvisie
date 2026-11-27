@@ -355,16 +355,18 @@ NB Einde Ondersteuning: 	_De standaard wordt niet meer ondersteund door de behee
 6.2 Transitie van Koppelvlakstandaarden
 ---------------------------------------
 
-In onderstaande figuur wordt aangegeven welke overgangen mogelijk zijn bij het uitfaseren van WUS, ebMS2
+Als een koppelvlakstandaard wordt uitgefaseerd moet worden overgegaan op een standaard met de gewenste functionaliteit voor de specifieke use case. In de volgende paragrafen wordt dit nader toegelicht voor WUS, ebMS2 en de Grote Berichten standaard. 
 
-### 6.2.1 Koppelvlakstandaarden
+### 6.2.1 Koppelvlakstandaarden WUS, ebMS2
+
+In onderstaande figuur wordt aangegeven welke overgangen mogelijk zijn bij het uitfaseren van WUS, ebMS2
 
 ![](media/fig_transitie_1.png)
 
 Toelichting:
 
 -   Bij uitfasering van de ebMS2 standaard kan een organisatie overgaan op REST-API/FSC of op eDelivery(ebMS3/AS4) afhankelijk van de specifieke use case.
--   Bij uitfasering van WUS (mn voor bevragingen) is REST-API de geschikte opvolger.
+-   Bij uitfasering van WUS is REST-API de geschikte opvolger (m.n. voor bevragingen).
 
 ### 6.2.2 Grote Berichten standaard
 
