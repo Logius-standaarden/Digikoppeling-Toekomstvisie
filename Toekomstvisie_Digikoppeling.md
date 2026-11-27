@@ -346,13 +346,13 @@ De uitfaseringsplanning is als volgt (voorbeeld):
 
 | Koppelvlak Standaard | Status | Toelichting | Einde Ondersteuning |
 | --- | --- | --- | --- |
-| Digikoppeling WUS | Uit te faseren | Het DK WUS koppelvlak dient te worden uit gefaseerd |  01-01-2030 |
-| Digikoppeling ebMS2 | Uit te faseren | Het DK ebMS2 koppelvlak dient te worden uit gefaseerd |  01-01-2030 |
+| Digikoppeling WUS | Uit te faseren | De standaard wordt voor nieuwe projecten/initiatieven niet meer ingezet.
+De standaard mag in bestaande systemen gebruikt worden. Tot datum einde ondersteuning is nog vanuit beheer support voor de standaard |  01-01-2030 |
+| Digikoppeling ebMS2 | Uit te faseren | De standaard wordt voor nieuwe projecten/initiatieven niet meer ingezet.
+De standaard mag in bestaande systemen gebruikt worden. Tot datum einde ondersteuning is nog vanuit beheer support voor de standaard |  01-01-2030 |
 
+NB Einde Ondersteuning: 	_De standaard wordt niet meer ondersteund door de beheerder. De standaard valt niet meer binnen de GDI governance en financiering. Gebruik is voor eigen rekening en verantwoordelijkheid, De organisatie is zelf verantwoordelijk voor functionele en security updates._
 
-(NB Datums zijn nog nader te bepalen)
-
-Na einde ondersteuning is gebruik nog toegestaan voor legacy applicaties tot datum einde gebruik. De organisatie is in deze periode zelf verantwoordelijk voor functionele en security updates.
 
 6.2 Transitie van Koppelvlakstandaarden
 ---------------------------------------
