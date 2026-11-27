@@ -366,6 +366,7 @@ In onderstaande figuur wordt aangegeven welke overgangen mogelijk zijn bij het u
 Toelichting:
 
 -   Bij uitfasering van de ebMS2 standaard kan een organisatie overgaan op REST-API/FSC of op eDelivery(ebMS3/AS4) afhankelijk van de specifieke use case.
+-   Bij uitfasering van WUS (mn voor bevragingen) is REST-API de geschikte opvolger.
 
 ### 6.2.2 Grote Berichten standaard
 
