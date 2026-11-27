@@ -306,7 +306,18 @@ Algemene eisen hierbij in de beoordeling:
 -   Digikoppeling levert voor standaarden NLgov profielen in geval aanvullende afspraken op de (internationale) standaard nodig zijn
 -   Digikoppeling verwijst alleen naar de internationale standaard in het geval dat dit volstaat (of wanneer een profiel nog in ontwikkeling is)
 
-### 5.6.2 Afspraken
+### 5.6.2 Statussen 
+
+De volgende aanduidingen worden gebruikt om de status van een standaard binnen Digikoppeling aan te geven:
+
+| **Status van de standaard** | **Toelichting** | **BOMOS fase** |
+| --- | --- | --- |
+| In Onderzoek | De standaard wordt gezien als mogelijk waardevolle aanvulling voor de Digikoppeling Standaard. | Verkenning (BOMOS 1) · Pilot (BOMOS 2) |
+| In Gebruik | De standaard is goedgekeurd in de Digikoppeling governance (Technisch Overleg en MIDO) | Groei (BOMOS 3) · Volwassen (BOMOS 4) |
+| Uit te faseren | De standaard wordt voor nieuwe projecten/initiatieven niet meer ingezet. <BR>De standaard mag in bestaande systemen gebruikt worden. Tot datum einde ondersteuning is nog vanuit beheer support voor de standaard <BR> (Zie status Einde Ondersteuning) | Uitfasering (BOMOS 5) |
+| Einde Ondersteuning | De standaard wordt niet meer ondersteund door de beheerder. De standaard valt niet meer binnen de GDI governance en financiering. Gebruik is voor eigen rekening en verantwoordelijkheid | (NVT, eigen eindstatus Digikoppeling) |
+
+### 5.6.3 Afspraken 
 
 Per standaard wordt bijgehouden of dit een profiel of internationale standaard is en of deze de status "in gebruik" of "uit te faseren"" heeft 
 
