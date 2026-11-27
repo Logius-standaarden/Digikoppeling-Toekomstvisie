@@ -187,10 +187,12 @@ Digikoppeling is opgenomen op de pas toe of leg uit lijst van het Forum Standaar
 
 __Beoogd Toepassingsgebied__
 
-_huidige formulering_
+_huidige formulering:_
+
 Digikoppeling moet worden toegepast bij digitale gegevensuitwisseling die plaatsvindt met voorzieningen die onderdeel zijn van de GDI, waaronder de basisregistraties, of die sector overstijgend is. De verplichting geldt voor gegevensuitwisseling tussen systemen waarbij er noodzaak is voor tweezijdige authenticatie.
 
-_nieuwe_formulering_
+_nieuwe_formulering:_
+
 Digikoppeling moet worden toegepast bij digitale gegevensuitwisseling die plaatsvindt met systemen van overheidsorgansisaties, dit geldt zowel voor diensten van overheid naar overheid als voor diensten van overheid naar bedrijfsleven. 
 
 (NB Dit is de voorgestelde formulering, het Forum Standaardisatie beslist over hoe het toepassingsgebied wordt geformuleerd op de pas-toe-of-leg-uit lijst van het Forum Standaardisatie)
