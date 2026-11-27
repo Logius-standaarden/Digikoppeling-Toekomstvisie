@@ -195,8 +195,6 @@ Digikoppeling moet worden toegepast bij digitale gegevensuitwisseling die plaats
 
 (NB Dit is de voorgestelde formulering, het Forum Standaardisatie beslist over hoe het toepassingsgebied wordt geformuleerd op de pas-toe-of-leg-uit lijst van het Forum Standaardisatie)
 
-__[TO DO : aanpassen formulering]__
-
 5.4 Inhoud & Opbouw van de standaard
 ------------------------------------
 
