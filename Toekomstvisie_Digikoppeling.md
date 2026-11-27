@@ -346,10 +346,8 @@ De uitfaseringsplanning is als volgt (voorbeeld):
 
 | Koppelvlak Standaard | Status | Toelichting | Einde Ondersteuning |
 | --- | --- | --- | --- |
-| Digikoppeling WUS | Uit te faseren | De standaard wordt voor nieuwe projecten/initiatieven niet meer ingezet.
-De standaard mag in bestaande systemen gebruikt worden. Tot datum einde ondersteuning is nog vanuit beheer support voor de standaard |  01-01-2030 |
-| Digikoppeling ebMS2 | Uit te faseren | De standaard wordt voor nieuwe projecten/initiatieven niet meer ingezet.
-De standaard mag in bestaande systemen gebruikt worden. Tot datum einde ondersteuning is nog vanuit beheer support voor de standaard |  01-01-2030 |
+| Digikoppeling WUS | Uit te faseren | De standaard wordt voor nieuwe projecten/initiatieven niet meer ingezet. De standaard mag in bestaande systemen gebruikt worden. Tot datum einde ondersteuning is nog vanuit beheer support voor de standaard |  01-01-2030 |
+| Digikoppeling ebMS2 | Uit te faseren | De standaard wordt voor nieuwe projecten/initiatieven niet meer ingezet. De standaard mag in bestaande systemen gebruikt worden. Tot datum einde ondersteuning is nog vanuit beheer support voor de standaard |  01-01-2030 |
 
 NB Einde Ondersteuning: 	_De standaard wordt niet meer ondersteund door de beheerder. De standaard valt niet meer binnen de GDI governance en financiering. Gebruik is voor eigen rekening en verantwoordelijkheid, De organisatie is zelf verantwoordelijk voor functionele en security updates._
 
@@ -370,11 +368,9 @@ Toelichting:
 
 ### 6.2.2 Grote Berichten standaard
 
+De verwachting is dat in de toekomst de Grote Berichten standaard kan worden uitgefaseerd wanneer voldoende functionaliteit geboden wordt in ebMS3/AS4 en REST-API (Bij het REST-API profiel is dit in ontwikkeling, ebMS3/AS4 biedt specifiek ondersteuning voor grote berichten).
+
 ![](media/fig_transitie_2.png)
-
-Toelichting:
-
-- De verwachting is dat in de toekomst de Grote Berichten standaard kan worden uitgefaseerd wanneer voldoende functionaliteit geboden wordt in ebMS3/AS4 en REST-API (Bij het REST-API profiel is dit in ontwikkeling, ebMS3/AS4 biedt specifiek ondersteuning voor grote berichten.
 
   
 6.3 Planning & Aanpak eDelivery (ebMS3/AS4) toevoegen aan de standaard
