@@ -357,7 +357,7 @@ NB Einde Ondersteuning: 	_De standaard wordt niet meer ondersteund door de behee
 6.2 Transitie van Koppelvlakstandaarden
 ---------------------------------------
 
-In onderstaande figuur wordt aangegeven welke overgangen mogelijk zijn:
+In onderstaande figuur wordt aangegeven welke overgangen mogelijk zijn bij het uitfaseren van WUS, ebMS2
 
 ### 6.2.1 Koppelvlakstandaarden
 
@@ -365,7 +365,7 @@ In onderstaande figuur wordt aangegeven welke overgangen mogelijk zijn:
 
 Toelichting:
 
--   Bij uitfasering van  de ebMS2 standaard kan voor specifieke use cases overgegaan worden op REST-API/FSC
+-   Bij uitfasering van de ebMS2 standaard kan een organisatie overgaan op REST-API/FSC of op eDelivery(ebMS3/AS4) afhankelijk van de specifieke use case.
 
 ### 6.2.2 Grote Berichten standaard
 
@@ -373,8 +373,9 @@ Toelichting:
 
 Toelichting:
 
--   Bij uitfasering van de Grote Berichten standaard kan gebruik gemaakt worden van de functionaliteit voor grote bestanden in ebms3/AS4 en REST-API
+- De verwachting is dat in de toekomst de Grote Berichten standaard kan worden uitgefaseerd wanneer voldoende functionaliteit geboden wordt in ebMS3/AS4 en REST-API (Bij het REST-API profiel is dit in ontwikkeling, ebMS3/AS4 biedt specifiek ondersteuning voor grote berichten.
 
+  
 6.3 Planning & Aanpak eDelivery (ebMS3/AS4) toevoegen aan de standaard
 ----------------------------------------------------------------------
 
